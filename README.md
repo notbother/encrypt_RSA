@@ -28,4 +28,4 @@ Criptografia RSA com Objective-C iOS
   
   ## O script PHP para teste
   
-  Veja `encrypt.php` no repositório.
+  Veja `RSA.php` no repositório.
